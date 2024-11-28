@@ -1,3 +1,2 @@
 This is the first line
-hi my name is moula
-My name is Mohammed nisar
+hi avinash and all my team member i welcome you to my repository
